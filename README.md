@@ -6,7 +6,7 @@ A codeforces problem will be randomized according to the topics selected by the 
 ## Technologies used:
 Built using React, Styled Components, Axios, Codeforces Public API.
 
-deployed at: https://karimelghamry.github.io/Codeforces-Randomizer/
+deployed at: http://Darshilp326.github.io/CF_Randomizer
 
 ### Show some :heart: and :star: the repo to support the project
 
@@ -17,9 +17,9 @@ deployed at: https://karimelghamry.github.io/Codeforces-Randomizer/
 - Adjust the range of ratings to your likings.
 
 - Press `Randomize` to retrieve a random problem from Codeforces based on your inputs.
-
+<!-- 
 <p align='center'><img width="483px" src="screenshots/SS1.PNG"> <img height="310px" src="screenshots/SS2.png"></p> 
-<p align='center'><img class="temp" height="300px" src="screenshots/SS3.png">&emsp;&emsp;&emsp;&emsp;<img class="temp" height="300px" src="screenshots/SS4.png"></p>
+<p align='center'><img class="temp" height="300px" src="screenshots/SS3.png">&emsp;&emsp;&emsp;&emsp;<img class="temp" height="300px" src="screenshots/SS4.png"></p> -->
 
 ## Features
 
