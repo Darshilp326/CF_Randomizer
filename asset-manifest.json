@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CF_Randomizer/static/css/main.b2dc995d.css",
+    "main.js": "/CF_Randomizer/static/js/main.d5a54606.js",
+    "static/media/codeforces_logo.png": "/CF_Randomizer/static/media/codeforces_logo.56a3c9dcc1324405b503.png",
+    "index.html": "/CF_Randomizer/index.html",
+    "main.b2dc995d.css.map": "/CF_Randomizer/static/css/main.b2dc995d.css.map",
+    "main.d5a54606.js.map": "/CF_Randomizer/static/js/main.d5a54606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2dc995d.css",
+    "static/js/main.d5a54606.js"
+  ]
+}
