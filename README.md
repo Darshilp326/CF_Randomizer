@@ -17,9 +17,11 @@ deployed at: http://Darshilp326.github.io/CF_Randomizer
 - Adjust the range of ratings to your likings.
 
 - Press `Randomize` to retrieve a random problem from Codeforces based on your inputs.
-<!-- 
-<p align='center'><img width="483px" src="screenshots/SS1.PNG"> <img height="310px" src="screenshots/SS2.png"></p> 
-<p align='center'><img class="temp" height="300px" src="screenshots/SS3.png">&emsp;&emsp;&emsp;&emsp;<img class="temp" height="300px" src="screenshots/SS4.png"></p> -->
+
+ 
+<p align='center'><img width="483px" src="screenshots/2.png"> <img height="310px" src="screenshots/3.png"></p> 
+<p align='center'><img width="483px" src="screenshots/1.png"> <img height="310px" src="screenshots/5.png"></p>
+
 
 ## Features
 
@@ -31,6 +33,9 @@ deployed at: http://Darshilp326.github.io/CF_Randomizer
 
 [✓] Clear history on demand
 
+## Further plans
+
+- Connect the website with the user's codeforces account for checking if the user has solved a certain problem or not.
 ## Contribution
 
 Feel free to to suggest further features/improvements by opening an issue or by submitting a pull request.
